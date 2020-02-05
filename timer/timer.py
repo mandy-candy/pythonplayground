@@ -37,7 +37,7 @@ while True:
 
     # as long as time is not None print
     if time1 is not None:
-        print("time1", time1)
+        print("Time 1", time1)
 
     if time2 is not None:
-        print("time2", time2)
+        print("Time 2", time2)
